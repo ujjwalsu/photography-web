@@ -2,17 +2,16 @@
 
 ## Project Structure
 
-Assets folder will contain sub folders `img` for images and `font` for font files. A `global.css` file for color values and default typographic sizes. `src` folder for the site's code where every sub-folder is a folder for a page within site. `index.html` and `style.css` in `src` are for homepage.
+Assets folder will contain sub folders `img` for images and `font` for font files. A `global.css` file for color values and default typographic sizes. Every sub-folder is a folder for a page within site. `index.html` and `style.css` in root are for homepage.
 
 ```
 ├── ./assets/
-└── ./src/
-    ├── about/ -> index.html, style.css
-    ├── blog/ -> .. ..
-    ├── contact/ -> .. ..
-    ├── gallery/ -> .. ..
-    ├── index.html
-    └── style.css
+├── about/ -> index.html, style.css
+├── blog/ -> .. ..
+├── contact/ -> .. ..
+├── gallery/ -> .. ..
+├── index.html
+└── style.css
 ```
 
 ## Design System
