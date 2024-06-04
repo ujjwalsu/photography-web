@@ -16,9 +16,7 @@ Assets folder will contain sub folders `img` for images and `font` for font file
 
 ## Design System
 
-**Font**: Inter as primary and few fallback fonts. [Link to Inter font](https://rsms.me/inter/)
-
-`Inter, Helvetica, Arial, Liberation Sans, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;`
+**Font**: Inter as primary and system fallback fonts. [Inter font](https://rsms.me/inter/) `Inter, Helvetica, Arial, Liberation Sans, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;`
 
 **Font scale**: https://typescale.com/
 
