@@ -37,4 +37,13 @@
     flex-direction: column-reverse;
     gap: 20px;
   }
+  /* contact */
+    input,
+    select,
+    textarea{
+        min-width:100%;
+    }
+    [type*="submit"]{
+        min-width:40%;
+    }
 }
